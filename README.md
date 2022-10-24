@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm 𝗧𝗘𝗖𝗛 𝗗𝗘𝗜𝗬𝗢</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h1 align="center">Hi 👋, I'm Sanjana Shamal Sandanayaka(Tech deiyo)</h1>
+<h3 align="center">frontend developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techdeiyo&label=Profile%20views&color=0e75b6&style=flat" alt="techdeiyo" /> </p>
 
