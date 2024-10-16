@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm sanjana shamal sandanayaka</h1>
+<h1 align="center">Hi 👋, I'm Dilmith Vidarshana</h1>
 <h3 align="center">🌟 Bridging Imagination and Innovation Through Code and Creativity 💡 (YouTuber, Web developer, Author)</h3>
-<p align="center">I am Sanjana Shamal Sandanayaka , a dynamic and multi-talented professional with a diverse skill set that includes web development, web design, graphic design, UI/UX design, content creation, authorship, and poetry. At only 22 years of age and an undergraduate software engineerfrom Birmingham City University, I have already made my mark in the industry.</p>
+<p align="center">I am Dilmith Vidarshana , a dynamic and multi-talented professional with a diverse skill set that includes web development, web design, graphic design, UI/UX design, content creation, authorship, and poetry. At only 22 years of age and an undergraduate software engineerfrom Birmingham City University, I have already made my mark in the industry.</p>
 <p align="center">My expertise in web development, design, and content creation is backed by my extensive knowledge of programming languages and frameworks, including HTML, CSS, JavaScript, React, and PHP. My eye for aesthetics and ability to create visually appealing and functional websites make me a valuable asset to any team.</p>
 <p align="center">In addition, as a YouTuber, I share my knowledge and expertise in science and technology. My passion for creativity and innovation shines through in my work, making me a top choice for clients who want to achieve their business objectives through expert web development and design. Contact me at x@sanjana.div to learn more.</p>
 <br/>
@@ -8,19 +8,12 @@
 
 <p align="left"> <a href="https://twitter.com/sanjanashamal" target="blank"><img src="https://img.shields.io/twitter/follow/sanjanashamal?logo=twitter&style=for-the-badge" alt="sanjanashamal" /></a> </p>
 
-- 🔭 I’m currently working on **Codexila MVM**
+- 🔭 I’m currently working on **Codexila**
 
 - 🌱 I’m currently learning **Frameworks**
 
-- 👨‍💻 All of my projects are available at [sanjana.dev](sanjana.dev)
-
-- 📝 I regularly write articles on [techdeiyo.com](techdeiyo.com)
-
 - 💬 Ask me about **HTML, PHP, JS, CSS, java**
 
-- 📫 How to reach me **x@sanjana.dev**
-
-- 📄 Know about my experiences [sanjana.dev](sanjana.dev)
 
 - ⚡ Fun fact **The first-ever computer game made zero profit for its team of creators. The game, titled Spacewar, was built from the ground up by Steve Russel, a young computer programmer, and his passionate team of fellow developers. Incredibly, Steve and his team chose not to charge people to play Spacewar, and instead, happily shared their creation with anyone who wanted to try it out.**
 
