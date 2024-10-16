@@ -33,7 +33,7 @@ Let’s build something awesome together! 😊
 <div>
     <h1 align="left">🖥️ Languages and Tools:</h1>
     <p align="left">
-        <img src="https://skillicons.dev/icons?i=angular,arduino,bootstrap,cpp,cloudflare,css,figma,firebase,git,github,gradle,html,ai,java,js,jquery,laravel,mysql,mongodb,nestjs,nextjs,nodejs,php,ps,pr,py,react,sass,tailwind,threejs,ts,vercel,vite,vscode,wordpress.xd" />
+        <img src="https://skillicons.dev/icons?i=angular,arduino,bootstrap,cpp,cloudflare,css,figma,firebase,git,github,gradle,html,ai,java,js,jquery,laravel,mysql,mongodb,nestjs,nextjs,nodejs,php,ps,pr,ae,py,react,sass,tailwind,threejs,ts,vercel,blender,unrealengine,unity,c#,vite,vscode,wordpress.xd"/>
     </p>
 </div>
 
