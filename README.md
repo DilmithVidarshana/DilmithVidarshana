@@ -1,8 +1,21 @@
 <h1 align="center">Hi 👋, I'm Dilmith Vidarshana</h1>
 <h3 align="center">🌟 Bridging Imagination and Innovation Through Code and Creativity 💡 (YouTuber, Web developer, Game Developer)</h3>
-<p align="center">I am Dilmith Vidarshana , a dynamic and multi-talented professional with a diverse skill set that includes web development, web design, graphic design, UI/UX design, content creation, authorship, and poetry. At only 21 years of age and an undergraduate software engineerfrom Birmingham City University, I have already made my mark in the industry.</p>
-<p align="center">My expertise in web development, design, and content creation is backed by my extensive knowledge of programming languages and frameworks, including HTML, CSS, JavaScript, React, and PHP. My eye for aesthetics and ability to create visually appealing and functional websites make me a valuable asset to any team.</p>
-<p align="center">In addition, as a YouTuber, I share my knowledge and expertise in science and technology. My passion for creativity and innovation shines through in my work, making me a top choice for clients who want to achieve their business objectives through expert web development and design. 
+<p align="center">I am Dilmith Vidarshana ,  a strong interest in software development, mobile apps, and game creation. I love solving problems and building engaging projects. Here’s a bit about what I do:.</p>
+<p align="center">💻 Skills & Expertise:
+
+Java: Backend development, desktop applications, and Java web services.
+PHP & MySQL: Building dynamic websites, APIs, and databases for scalable applications.
+React Native: Developing cross-platform mobile applications for Android and iOS.
+Game Development: Designing and building interactive games with captivating experiences.
+Full-Stack Projects: Combining front-end and back-end technologies to create complete solutions.</p>
+<p align="center">🌱 I’m always learning and excited to explore new frameworks, game engines, and tools to improve my skills.
+
+🚀 Currently Working On:
+
+An e-commerce website built with PHP and Bootstrap.
+Developing mobile games and interactive apps.
+Learning more about modern Java frameworks and cloud services.
+Let’s build something awesome together! 😊
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DilmithVidarshana&label=Profile%20views&color=0e75b6&style=flat" alt="DilmithVidarshana" /> </p>
 
