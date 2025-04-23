@@ -39,7 +39,7 @@ Let’s build something awesome together! 😊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dilmith-vidarshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjanashamal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dilmith-vidarshana-420404314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjanashamal" height="30" width="40" /></a>
 <a href="https://www.facebook.com/dilmith.vidarshana.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanjana.shamal.96" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dilmith_vidarshana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanjana_shamal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/DilmithVidarshana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="DilmithVidarshana" height="30" width="40" /></a>
